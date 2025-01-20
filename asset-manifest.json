@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ShubhamRathod123/Flight-Booking-App.git/static/css/main.ca3c3520.css",
-    "main.js": "/ShubhamRathod123/Flight-Booking-App.git/static/js/main.efa9ad0b.js",
+    "main.js": "/ShubhamRathod123/Flight-Booking-App.git/static/js/main.feb555e7.js",
     "static/js/488.d89a517f.chunk.js": "/ShubhamRathod123/Flight-Booking-App.git/static/js/488.d89a517f.chunk.js",
     "static/media/sun_aero.jpg": "/ShubhamRathod123/Flight-Booking-App.git/static/media/sun_aero.4c0c8dffa3561ab9eff7.jpg",
     "static/media/s-img.avif": "/ShubhamRathod123/Flight-Booking-App.git/static/media/s-img.692eb21fe959bc92fb41.avif",
     "index.html": "/ShubhamRathod123/Flight-Booking-App.git/index.html",
     "main.ca3c3520.css.map": "/ShubhamRathod123/Flight-Booking-App.git/static/css/main.ca3c3520.css.map",
-    "main.efa9ad0b.js.map": "/ShubhamRathod123/Flight-Booking-App.git/static/js/main.efa9ad0b.js.map",
+    "main.feb555e7.js.map": "/ShubhamRathod123/Flight-Booking-App.git/static/js/main.feb555e7.js.map",
     "488.d89a517f.chunk.js.map": "/ShubhamRathod123/Flight-Booking-App.git/static/js/488.d89a517f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca3c3520.css",
-    "static/js/main.efa9ad0b.js"
+    "static/js/main.feb555e7.js"
   ]
 }
